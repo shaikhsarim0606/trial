@@ -1,0 +1,31 @@
+      body{
+        background-color: aqua;
+        align-items: center;
+      }
+    .h2{
+    text-align:center;
+    color: rgba(2, 2, 65, 0.685);
+ }
+  .form{
+    border: 2px solid darkblue;
+    align-items: center;
+    background-color: lightskyblue;
+    height: 330px;
+    width: 320px;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+  .form1{
+    text-align: center;
+    margin-top: 30px;
+    justify-content: center;
+  }
+  button{
+    height: 40px;
+    width: 62px;
+    border-radius: 25px;
+    background-color: blue;
+    color: white;
+  }
